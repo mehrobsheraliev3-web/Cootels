@@ -210,3 +210,70 @@ body
     width: 400px;
     height: 400px;
 }
+.cel-6
+{
+    width: 95%;
+    height: 200px;
+    margin: auto;
+    margin-top: 80px;
+    text-align:center;
+}
+.cel-6 h1{
+    font-size: 33px;
+    font-weight: bold;
+}
+.cel-6 p{
+    font-size: 20px;
+    line-height: 35px;
+    color: gray;
+    margin-top: 10px;
+}
+.btn4
+{
+    margin-top: 30px;
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+.cel-7
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-around
+}
+.card1
+{
+    width:350px;
+    height: 500px;
+}
+.crd{
+    width: 350px;
+    height: 400px;
+}
+.card2
+{
+    width:350px;
+    height: 500px;
+}
+.card3
+{
+    width:350px;
+    height: 500px;
+}
+.cel-7 h1{
+    font-size: 30px;
+    font-weight: 800px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.cel-7 p{
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
