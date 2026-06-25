@@ -42,3 +42,64 @@ body
     padding-bottom: 15px;
     margin-left: 130px;
 }
+.cel-2
+{
+    width: 95%;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.left
+{
+    width: 40%;
+    height: 500px;
+    text-align: center;
+}
+.left h1{
+    padding-top: 200px;
+    font-size: 45px;
+    line-height: 60px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.left p
+{
+    font-size: 17px;
+    line-height: 30px;
+    color: gray;
+    text-align: left;
+}
+.btn2
+{
+    width: 180px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: -300px;
+    padding: 6px;
+    border-radius: 10px;
+}
+.right
+{
+    width: 60%;
+    position: relative;
+}
+.img1{
+    width: 200px;
+    height: 490px;
+}
+.img2
+{
+    width: 200px;
+    height: 490px;
+    position: relative;
+    top: 85px;
+}
+.img3
+{
+ width: 200px;
+ height: 490px;
+}
