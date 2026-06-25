@@ -103,3 +103,43 @@ body
  width: 200px;
  height: 490px;
 }
+
+.cel-3
+{
+    width: 95%;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.rt{
+    width: 55%;
+    height: 600px;
+    margin: auto;
+    text-align: left;
+    margin-left: 120px;
+}
+.rt h1{
+    margin-top:100px;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 60px;
+    padding-bottom: 20px;
+}
+.rt p{
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 25px;
+    color: gray;
+    margin-bottom: 10px;
+}
+.btn3
+{
+    width: 180px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    margin-top: 20px; 
+    padding: 6px;
+}
